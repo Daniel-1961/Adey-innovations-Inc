@@ -1,4 +1,3 @@
-# Save this as script/feature_engineering.py
 import pandas as pd
 
 def calculate_transaction_features(df):
