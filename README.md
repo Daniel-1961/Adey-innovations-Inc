@@ -1,31 +1,39 @@
 
 Fraud Detection - End-to-End Machine Learning Project
+
+
 📌 Overview
 
 
 This project aims to build a fraud detection system for e-commerce and banking transactions.
+
+
 It includes data preprocessing, model training, explainability, API development, and a dashboard.
 
+
+
 📂 Datasets
-Fraud_Data.csv - E-commerce transaction data with fraud labels.
-IpAddress_to_Country.csv - Maps IP addresses to country locations.
-creditcard.csv - Credit card transaction data (with PCA-transformed features).
-📌 Task 1: Data Analysis & Preprocessing
-✅ Steps Performed
-Handled missing values using imputation techniques.
-Removed duplicates and corrected data types.
-Performed Exploratory Data Analysis (EDA) to understand fraud trends.
-Merged datasets to include geolocation data from IP addresses.
-Engineered new features such as:
-Transaction frequency
-Time-based features (hour of day, day of week)
-Normalized numerical features and encoded categorical variables.
-📌 Task 2: Model Training
-✅ Steps Performed
-Split data into training (80%) and testing (20%) sets.
-Trained multiple models:
-Logistic Regression
-Decision Tree
+
+
+Fraud_Data.csv - E-commerce transaction data with fraud labels.<br>
+IpAddress_to_Country.csv - Maps IP addresses to country locations.<br>
+creditcard.csv - Credit card transaction data (with PCA-transformed features).<br>
+📌 Task 1: Data Analysis & Preprocessing<br>
+✅ Steps Performed<br>
+Handled missing values using imputation techniques.<br>
+Removed duplicates and corrected data types.<br>
+Performed Exploratory Data Analysis (EDA) to understand fraud trends.<br>
+Merged datasets to include geolocation data from IP addresses.<br>
+Engineered new features such as:<br>
+Transaction frequency<br>
+Time-based features (hour of day, day of week)<br>
+Normalized numerical features and encoded categorical variables.<br>
+📌 Task 2: Model Training<br>
+✅ Steps Performed<br>
+Split data into training (80%) and testing (20%) sets.<br>
+Trained multiple models:<br>
+Logistic Regression<br>
+Decision Tree<br>
 Random Forest
 Gradient Boosting
 Neural Networks (MLP)
