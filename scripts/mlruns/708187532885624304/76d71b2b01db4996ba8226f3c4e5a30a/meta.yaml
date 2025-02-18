@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/lenovo/OneDrive/Desktop/10Academy%20Files/week_8/week_8%20project/Adey-innovations-Inc/scripts/mlruns/708187532885624304/76d71b2b01db4996ba8226f3c4e5a30a/artifacts
+end_time: 1739888605855
+entry_point_name: ''
+experiment_id: '708187532885624304'
+lifecycle_stage: active
+run_id: 76d71b2b01db4996ba8226f3c4e5a30a
+run_name: creditcard_logistic_regression
+run_uuid: 76d71b2b01db4996ba8226f3c4e5a30a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739888588762
+status: 3
+tags: []
+user_id: lenovo

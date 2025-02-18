@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/lenovo/OneDrive/Desktop/10Academy%20Files/week_8/week_8%20project/Adey-innovations-Inc/scripts/mlruns/708187532885624304/f7cbda6cacd64ef3af784473244a5791/artifacts
+end_time: 1739881425155
+entry_point_name: ''
+experiment_id: '708187532885624304'
+lifecycle_stage: active
+run_id: f7cbda6cacd64ef3af784473244a5791
+run_name: fraud_data_logistic_regression
+run_uuid: f7cbda6cacd64ef3af784473244a5791
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739881424968
+status: 4
+tags: []
+user_id: lenovo
